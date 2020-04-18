@@ -1,7 +1,7 @@
 # Desafio-Semantix-Crawler
 Repository with the resolution of the technical challenge of the company Semantix
 
-# Chaleng Description
+# Challenge Description
 
 O profissional deverá criar um código que realize o seguinte crawler
 Visão Geral
